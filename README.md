@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lizbyrd
+- 👀 I’m interested in data visulations and analysis to present my work and track trends
+- 🌱 I’m currently learning data analytics 
+- 💞️ I’m looking to collaborate on introductory projects 
